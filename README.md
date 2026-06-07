@@ -1,8 +1,9 @@
 # Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32px">
 
-I bridge the gap between physical and digital design. I assemble digital ecosystems from the ground up using code. I treat a codebase like a blueprint—focusing on structural integrity, user movement, and layered experiences.
+Crafting clean interfaces and interactive code. 💻
 
----
+
+
 
 ### 🚀 What I'm Working On
 - 💻 **Full-Stack Web Apps:** Building responsive frontends and robust backends (React, Node.js).
