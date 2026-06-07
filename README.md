@@ -1,4 +1,4 @@
-# Hi there, I'm Melek 👋 
+# Hi there, I'm [Your Name] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I bridge the gap between physical and digital design. I assemble digital ecosystems from the ground up using code. I treat a codebase like a blueprint—focusing on structural integrity, user movement, and layered experiences.
 
