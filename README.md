@@ -20,5 +20,6 @@ Frontend:  [ HTML5 ] [ CSS3 ] [ JavaScript ] [ React ]
 Backend:   [ Node.js ] [ Express ]
 Design:    [ UI/UX ] [ Digital Sketching ] [ Spatial Modeling ]
 Learning:  [ Cyber Security ] [ System Architecture ]
+```
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arthemisz)](https://git.io/streak-stats)
