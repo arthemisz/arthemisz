@@ -21,6 +21,4 @@ Backend:   [ Node.js ] [ Express ]
 Design:    [ UI/UX ] [ Digital Sketching ] [ Spatial Modeling ]
 Learning:  [ Cyber Security ] [ System Architecture ]
 
-<div align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arthemisz)](https://git.io/streak-stats)
