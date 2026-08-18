@@ -24,5 +24,5 @@ Learning:  [ Cyber Security ] [ System Architecture ]
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arthemisz&theme=tokyonight&hide_border=true&fire=FF4500" alt="GitHub Streak" />
+  <img src="https://nice-readme.vercel.app/streak-stats?username=arthemisz&theme=tokyonight&hide_border=true&fire=FF4500" alt="GitHub Streak" />
 </p>
