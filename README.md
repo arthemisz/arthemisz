@@ -22,5 +22,5 @@ Design:    [ UI/UX ] [ Digital Sketching ] [ Spatial Modeling ]
 Learning:  [ Cyber Security ] [ System Architecture ]
 ```
 <p align="center">
-  <img src="https://img.shields.io/badge/Streak-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=arthemisz" alt="GitHub Streak" />
 </p>
