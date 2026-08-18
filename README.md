@@ -23,4 +23,6 @@ Learning:  [ Cyber Security ] [ System Architecture ]
 ```
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arthemisz&theme=tokyonight&hide_border=true&fire=FF4500)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arthemisz&theme=tokyonight&hide_border=true&fire=FF4500" alt="GitHub Streak" />
+</p>
