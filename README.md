@@ -21,7 +21,6 @@ Backend:   [ Node.js ] [ Express ]
 Design:    [ UI/UX ] [ Digital Sketching ] [ Spatial Modeling ]
 Learning:  [ Cyber Security ] [ System Architecture ]
 ```
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthemisz&theme=tokyonight&hide_border=true&fire=FF4500" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Streak-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Streak" />
 </p>
